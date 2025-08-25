@@ -16,7 +16,7 @@ Incluye materiales en español e inglés, en formatos PDF y web.
 ## 📖 Cálculo
 -
 - [Cálculo Volumen 1 (OpenStax)](https://assets.openstax.org/oscms-prodcms/media/documents/Calculo_volumen_1_-_WEB_vGHB4xK.pdf)
--
+- [Cálculo Volumen 2 (OpenStax)](https://assets.openstax.org/oscms-prodcms/media/documents/Calculo_volumen_2_-_WEB_8JoonWk.pdf?)
 -
 - [Cálculo Diferencial e Integral – Apuntes UNAM (PDF)](https://www.mat.unam.mx/~apuntes/calculo_diferencial.pdf)  
 - [Calculus Volume 1 – OpenStax (EN)](https://openstax.org/books/calculus-volume-1/pages/1-introduction)  
