@@ -1,4 +1,4 @@
-# 📘 Matemáticas — Libros y Apuntes Gratuitos
+# 📘 Libros y Apuntes Gratuitos: Matemáticas
 
 Este documento reúne enlaces a **libros, manuales y apuntes de Matemáticas** de acceso libre y gratuito.  
 Incluye materiales en español e inglés en formatos PDF.
