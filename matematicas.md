@@ -14,7 +14,6 @@ Incluye materiales en español e inglés, en formatos PDF y web.
 ---
 
 ## 📖 Cálculo
--
 - [Cálculo Volumen 1 (OpenStax) (ES)](https://assets.openstax.org/oscms-prodcms/media/documents/Calculo_volumen_1_-_WEB_vGHB4xK.pdf)
 - [Cálculo Volumen 2 (OpenStax) (ES)](https://assets.openstax.org/oscms-prodcms/media/documents/Calculo_volumen_2_-_WEB_8JoonWk.pdf)
 - [Cálculo Volumen 3 (OpenStax) (ES)](https://assets.openstax.org/oscms-prodcms/media/documents/Calculo_volumen_3_-_WEB_lnXeWrT.pdf)
