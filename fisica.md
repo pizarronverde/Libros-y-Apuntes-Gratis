@@ -5,8 +5,10 @@ Incluye materiales en español e inglés en formatos PDF.
 
 ---
 
-## 📖 Álgebra y Precálculo
-- [Precálculo 2ed. (OpenStax) (ES)](https://assets.openstax.org/oscms-prodcms/media/documents/Precalculo_2ed-WEB_R2h7jtX.pdf)
+## 📖 Física General
+- [Física Universitaria Volumen 1 (OpenStax) (ES)](https://assets.openstax.org/oscms-prodcms/media/documents/FisicaUniversitariaVolumen1-WEB_JDl3rTk.pdf)
+- [Física Universitaria Volumen 2 (OpenStax) (ES)](https://assets.openstax.org/oscms-prodcms/media/documents/FisicaUniversitariaVolumen2-WEB.pdf)
+- [Física Universitaria Volumen 3 (OpenStax) (ES)](https://assets.openstax.org/oscms-prodcms/media/documents/FisicaUniversitariaVolumen3WEB_UGpB6A5.pdf)
 
 ---
 
