@@ -39,6 +39,10 @@ Incluye materiales en español e inglés, en formatos PDF y web.
 ---
 
 ## 📖 Probabilidad y Estadística
+- [Introducción a la estadística (OpenStax) (ES)](https://assets.openstax.org/oscms-prodcms/media/documents/Introduccion_al_la_estadistica_-_WEB.pdf)
+- [Introducción a la estadística empresarial (OpenStax) (ES)](https://assets.openstax.org/oscms-prodcms/media/documents/Introduccion_al_la_estadistica_empresarial_-_WEB.pdf)
+-
+-
 - [Introduction to Probability – Grinstead & Snell (PDF, EN)](https://math.dartmouth.edu/~prob/prob/prob.pdf)  
 - [Introductory Statistics – OpenStax (EN)](https://openstax.org/books/introductory-statistics/pages/1-introduction)  
 - [Apuntes de Estadística – UBA (PDF)](https://www.uba.ar/archivos/estadistica.pdf)  
