@@ -1,4 +1,4 @@
-# 📘 Libros y Apuntes Gratuitos: Matemáticas
+# 📘 Libros y Apuntes Gratuitos: Física
 
 Este documento reúne enlaces a **libros, manuales y apuntes de Física** de acceso libre y gratuito.  
 Incluye materiales en español e inglés en formatos PDF.
