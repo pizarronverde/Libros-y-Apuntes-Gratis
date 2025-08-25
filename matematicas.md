@@ -6,6 +6,9 @@ Incluye materiales en español e inglés, en formatos PDF y web.
 ---
 
 ## 📖 Álgebra y Precálculo
+- [Precálculo 2ed. (OpenStax) (ES)](https://assets.openstax.org/oscms-prodcms/media/documents/Precalculo_2ed-WEB_R2h7jtX.pdf)
+-
+-
 - [Álgebra – Baldor (PDF, Archive.org)](https://archive.org/details/algebra-de-baldor)  
 - [Elementary Algebra – OpenStax (EN)](https://openstax.org/books/elementary-algebra/pages/1-introduction)  
 - [Precalculus – OpenStax (EN)](https://openstax.org/books/precalculus/pages/1-introduction)  
