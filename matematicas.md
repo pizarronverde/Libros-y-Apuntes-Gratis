@@ -31,6 +31,8 @@ Incluye materiales en español e inglés, en formatos PDF y web.
 ---
 
 ## 📖 Álgebra Lineal y Geometría Analítica
+-
+-
 - [Linear Algebra – Jim Hefferon (EN, CC License)](https://hefferon.net/linearalgebra/)  
 - [Álgebra Lineal y sus Aplicaciones – Gilbert Strang (MIT OCW, EN)](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)  
 - [Apuntes de Álgebra Lineal – UNAM (PDF)](http://www.mat.unam.mx/~apuntes/algebra_lineal.pdf)  
